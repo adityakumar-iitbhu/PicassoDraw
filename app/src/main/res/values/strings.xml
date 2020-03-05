@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PicassoDraw</string>
+    <string name="color">Color</string>
+    <string name="save">Save</string>
+    <string name="line_width">Line Width</string>
+    <string name="delete">Delete</string>
+    <string name="alpha">Alpha</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="set_width">SET WIDTH</string>
+    <string name="set_color">SET COLOR</string>
+</resources>

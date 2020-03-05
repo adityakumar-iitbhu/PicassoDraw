@@ -1,0 +1,2 @@
+rootProject.name='PicassoDraw'
+include ':app'
